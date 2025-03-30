@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\Siah Jin Thau\\OneDrive\\Desktop\\Projects\\3d-avatar-test\\public\\audios\\sample_voice.ogg",
+    "duration": 4.44
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "X" },
+    { "start": 0.05, "end": 0.23, "value": "D" },
+    { "start": 0.23, "end": 0.30, "value": "B" },
+    { "start": 0.30, "end": 0.52, "value": "A" },
+    { "start": 0.52, "end": 0.96, "value": "B" },
+    { "start": 0.96, "end": 1.03, "value": "C" },
+    { "start": 1.03, "end": 1.17, "value": "B" },
+    { "start": 1.17, "end": 1.24, "value": "F" },
+    { "start": 1.24, "end": 1.32, "value": "A" },
+    { "start": 1.32, "end": 1.49, "value": "B" },
+    { "start": 1.49, "end": 1.63, "value": "F" },
+    { "start": 1.63, "end": 1.77, "value": "B" },
+    { "start": 1.77, "end": 2.05, "value": "C" },
+    { "start": 2.05, "end": 2.24, "value": "D" },
+    { "start": 2.24, "end": 2.29, "value": "C" },
+    { "start": 2.29, "end": 2.47, "value": "B" },
+    { "start": 2.47, "end": 2.61, "value": "D" },
+    { "start": 2.61, "end": 2.68, "value": "B" },
+    { "start": 2.68, "end": 2.75, "value": "C" },
+    { "start": 2.75, "end": 3.41, "value": "B" },
+    { "start": 3.41, "end": 3.49, "value": "D" },
+    { "start": 3.49, "end": 3.98, "value": "F" },
+    { "start": 3.98, "end": 4.44, "value": "X" }
+  ]
+}
