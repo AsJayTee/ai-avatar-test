@@ -1,5 +1,5 @@
 import { Environment, OrbitControls, useTexture } from "@react-three/drei";
-import { Avatar } from "./Avatar-JT";
+import { Avatar } from "./Avatar-Lawyer-Male-2";
 import { useThree } from "@react-three/fiber";
 import { useRef, useState } from "react";
 import { useFrame } from "@react-three/fiber";
